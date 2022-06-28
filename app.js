@@ -1,6 +1,6 @@
 "Use Strict"
 
-let questionTotal = 10;
+let questionTotal = 9;
 
 let questionCounter = 0;
 
@@ -47,6 +47,13 @@ let originalStory = `<h2>Rapunzel grew into the most beautiful child beneath the
   <h2>Let down your ${userInputs[7]}."</h2>
   <h2>Immediately the ${userInputs[7]} fell down and ${userInputs[2]} climbed up.</h2>`;
   console.log(originalStory);
+
+alert(
+  "All done, see ur story"
+);
+
+console.log(originalStory);
+document.write(originalStory);
 
 /*Rapunzel grew into the most beautiful child beneath the sun.  When she was twelve years old, the witch shut her into a tower, which lay in a forest.  The tower had no stairs or doors, but only a little window at the very top.  When the witch wanted to go in, she stood beneath the window and cried,
 
