@@ -17,7 +17,9 @@ let originalStory = `<h2>Rapunzel grew into the most beautiful child beneath the
   <h2>Immediately the ${userInputs[15]} fell down and the Prince climbed up.</h2>`;
   console.log(originalStory);
 
+let questionTotal = 15;
 
+let questionCounter = 0;
 
 /*Rapunzel grew into the most beautiful child beneath the sun.  When she was twelve years old, the witch shut her into a tower, which lay in a forest.  The tower had no stairs or doors, but only a little window at the very top.  When the witch wanted to go in, she stood beneath the window and cried,
 
